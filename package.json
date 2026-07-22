@@ -1,0 +1,9 @@
+{
+  "name": "coaching-digital",
+  "version": "1.0.0",
+  "description": "Landing page com formulário de leads",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
